@@ -1,15 +1,2 @@
-def say_hello_world_ten_times
-    phrase = "Hello World!"
-    puts phrase
-    puts phrase
-    puts phrase
-    puts phrase
-    puts phrase
-    puts phrase
-    puts phrase
-    puts phrase
-    puts phrase
-    puts phrase
-  end
-
-  say_hello_world_ten_times
+answer = "<500>"
+puts "There are #{num_of_attendees} people coming to Beyonce's birthday party."
